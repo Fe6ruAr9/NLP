@@ -1,6 +1,3 @@
-[--!toc--]
-
-
 #### Why NLP is important
 - structured data —— Table
 - unstructured data —— Text Picture Video
