@@ -13,8 +13,8 @@
 6 Steps
 - content determination
 - text structuring
-- sentence aggregation
-- lexicalisation
+- *sentence aggregation*
+- **lex**icalisation
 - referring expression generation
 - linguistic realisation
 
@@ -46,3 +46,6 @@
   - SVM
   - 神经网络
   - 强化学习
+
+##### 迭代算法的复杂度
+- 常量系数对复杂度不产生影响
